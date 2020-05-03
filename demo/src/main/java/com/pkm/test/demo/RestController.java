@@ -19,7 +19,7 @@ public class RestController {
 
 	@GetMapping("/test")
 	public String testDetai() {
-		return "Working from Docker DB Test Compose ttttttt  docker";
+		return "Working from Docker DB Test Compose Git Hub  docker";
 	}
 
 	@GetMapping("/testDB")
